@@ -2,6 +2,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "d3-node": "^1.0.3",
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
   }
 }
